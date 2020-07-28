@@ -61,3 +61,7 @@ protected Class<?> loadClass(String name, boolean resolve)
 ### 如何打破双亲委派机制:
 - 自定义加载器
     - 只需自定义一个加载器类,继承ClassLoader类并重写loadClass和findClass方法
+
+##### 参考博客
+
+[https://snailclimb.gitee.io/javaguide/#/docs/java/jvm/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E5%99%A8](https://snailclimb.gitee.io/javaguide/#/docs/java/jvm/类加载器)

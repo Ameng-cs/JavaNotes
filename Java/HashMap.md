@@ -47,12 +47,13 @@ public class HashMap<K,V> extends AbstractMap<K,V> implements Map<K,V>, Cloneabl
 
 ### 结点的插入
 - 插入点计算出来为int值 
-    
+  
     - key,value  ----> 通过key->Object->hashcode
 - 插入点的范围不能超过数组的0-15  数组大小的范围
-    
+  
     - Hash %16  
 - 插入点要尽可能的充分利用数组的每一个位置
+    
     - ##### hash算法	
 ```java
 static final int hash(Object key){
@@ -303,7 +304,7 @@ static final int hash(Object key){
                   ```
                   
 
-参考博客
+#### 参考博客
 
-[https://blog.csdn.net/weixin_41565013/article/details/93190786]: 	"深入理解HashMap"
+[https://blog.csdn.net/weixin_41565013/article/details/93190786](https://blog.csdn.net/weixin_41565013/article/details/93190786)
 
