@@ -1,4 +1,4 @@
-# MyNotes
+# JavaNotes
 这是我在学习Java道路上做的相关笔记,之前一直是在有道云笔记上做的,现在在打算将他们分享出来,放在GitHub上,希望你们看到以后能够从中获益把哈哈哈!如果有错误的话也请大家指出来嘻嘻嘻
 
 目前整理出来的目录有:
@@ -28,6 +28,5 @@
   - [Git](https://github.com/Ameng-cs/MyNotes/blob/master/Tools/Git.md)
   - [Maven](https://github.com/Ameng-cs/MyNotes/blob/master/Tools/Maven.md)
 - 数据结构与算法
-  - 单例模式
+  - [单例模式](https://github.com/Ameng-cs/JavaNotes/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
 
-日后我也会让他们更加完善的!
